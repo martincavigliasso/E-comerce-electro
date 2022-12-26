@@ -48,3 +48,5 @@ app.post("/productos", async (req, res) => {
 app.listen(port, () => {
   console.log(`Iniciado en http://localhost:${port}`);
 });
+
+
