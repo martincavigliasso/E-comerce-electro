@@ -38,4 +38,5 @@ async function postData(url = "", data = {}) {
         select.appendChild(option);
       });
     });
+  const socket = io (); 
   
